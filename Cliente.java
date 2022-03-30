@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Classe que representa um cliente no Bytebank.
  *
- * @author Nico Steppat
+ * @author Andressa Lazoti
  * @version 0.1
  */
 public class Cliente implements Serializable {
